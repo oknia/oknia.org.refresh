@@ -1,0 +1,6 @@
+baseURL = 'http://www.oknia.org/'
+languageCode = 'en-us'
+title ="OKNIA.org"
+theme = 'ananke'
+
+sectionPagesMenu = 'main'
