@@ -14,8 +14,8 @@ All members, as defined above, shall have one vote each to cast during attendanc
 
 Contact information provided by members and others shall be used solely for the purpose of Association business. The Association shall never release information about its members to anyone outside the Association for any purpose without the express permission of the member.
 
-[Bylaws](/documents/oknia_bylaws.pdf)
+[Bylaws](/oknia.org.refresh/documents/oknia_bylaws.pdf)
 
-[Board of Directors](/board)
+[Board of Directors](/oknia.org.refresh/board)
 
 [Membership Dues](https://givebutter.com/sx2rmk)
