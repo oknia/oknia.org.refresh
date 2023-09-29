@@ -5,7 +5,7 @@ date: 2023-09-28T11:05:57-07:00
 menu:
 - main
 ---
- ![Boundary Map](../boundaries.jpg)
+ ![Boundary Map](../boundaries.png)
 ## Oak Knoll
      Alcala Avenue
      Blandon Road
