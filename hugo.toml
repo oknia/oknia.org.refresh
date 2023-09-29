@@ -1,4 +1,4 @@
-baseURL = 'https://oknia.github.io/oknia.org.refresh.public/'
+baseURL = ''
 languageCode = 'en-us'
 title ="OKNIA.org"
 theme = 'ananke'
