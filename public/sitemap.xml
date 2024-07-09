@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/community-updates/</loc>
+    <loc>https://oknia.org/community-updates/</loc>
     <lastmod>2024-07-08T11:01:59-07:00</lastmod>
   </url><url>
-    <loc>/community-updates/202407_update/</loc>
+    <loc>https://oknia.org/community-updates/202407_update/</loc>
     <lastmod>2024-07-08T11:01:59-07:00</lastmod>
   </url><url>
-    <loc>/board/</loc>
+    <loc>https://oknia.org/board/</loc>
     <lastmod>2024-07-07T10:15:57-07:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://oknia.org/about/</loc>
     <lastmod>2023-09-28T11:05:57-07:00</lastmod>
   </url><url>
-    <loc>/boundaries/</loc>
+    <loc>https://oknia.org/boundaries/</loc>
     <lastmod>2023-09-28T11:05:57-07:00</lastmod>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>https://oknia.org/contact/</loc>
     <lastmod>2023-09-28T11:05:57-07:00</lastmod>
   </url><url>
-    <loc>/membership/</loc>
+    <loc>https://oknia.org/membership/</loc>
     <lastmod>2023-09-28T11:05:57-07:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://oknia.org/</loc>
     <lastmod>2023-09-28T11:05:57-07:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://oknia.org/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://oknia.org/tags/</loc>
   </url>
 </urlset>
