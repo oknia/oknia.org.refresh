@@ -11,3 +11,5 @@ To enhance the livability of the community by establishing and maintaining an op
 To provide a process by which all neighborhood members may involve themselves in the affairs of the neighborhood.
 
 To increase the visibility and voice of the homeowners and tenants in matters related to the betterment of the neighborhood.
+
+[Donate Here](https://givebutter.com/sx2rmk)
