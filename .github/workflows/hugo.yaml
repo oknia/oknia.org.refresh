@@ -32,7 +32,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.115.4
+      HUGO_VERSION: 0.131.0
     steps:
       - name: Install Hugo CLI
         run: |
@@ -59,7 +59,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"          
+            --baseURL "https://oknia.org/"          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
