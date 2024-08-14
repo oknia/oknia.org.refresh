@@ -10,6 +10,8 @@ We want to thank all of the volunteers who have helped OKNIA's ongoing efforts o
 
 In addition to invasive species removal, this year's winter season we would like to plant native species into selected areas within the Open Space.
 
+![photo1](/images/keos_zygadenus.JPG)
+
 For this we need volunteers to help raise seedlings for transplant after the rains have started. Last summer we gathered wildflower seeds, section by section a few days before the goats chomped them.
 
 This Saturday, 30 September. we will have seedling starter trays, potting soil and wildflower seeds available to anyone who wants help by taking home some trays to nurture until the plants are established enough for transplanting.
