@@ -2,6 +2,7 @@
 title: "Seedlings"
 date: 2024-08-14T11:01:59-07:00
 draft: false
+featured_image: "/images/keos_zygadenus.JPG"
 ---
 Hi All,
 
