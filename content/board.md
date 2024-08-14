@@ -9,11 +9,10 @@ date: 2024-07-07T10:15:57-07:00
 - Art Clark
 
 ## King Estate
-- Marshall Hasbrouck, Interim Chair
+- Marshall Hasbrouck, Chair
 - Tamara Torrey, Vice-Chair
 
 ## Oak Knoll
-- Aijay Adams, Secretary
 - Rebecca Palm-Song
 
 
